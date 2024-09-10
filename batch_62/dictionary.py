@@ -13,9 +13,14 @@ result = {'a': 'ali', 'b': 'ahmad','c': 'hassen'}
 #     print(x)
 # for i,x in result.items():
 # #     print(f"{i},:{x}")
-# students = {'roll no': [102,103,104,],
-#             'names': ['ali','ahmaed','asad',],
-#             'subjects': ['englist','urdu','math']}
+
 # print(students)
 # print(students['names'])
 # print(students['names'][-1])
+students = {'roll no': [102,103,104,],
+            'names': ['ali','ahmaed','asad',],
+            'subjects': ['englist','urdu','math']}
+# print(list(students.items()))
+# print(pairs[1])
+# print(students['name1'])
+print(students.get("name1"))

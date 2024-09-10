@@ -75,3 +75,6 @@
 
 name = "hijab92"
 print(name.isidentifier())
+# students = {'roll no': [102,103,104,],
+#             'names': ['ali','ahmaed','asad',],
+#             'subjects': ['englist','urdu','math']}

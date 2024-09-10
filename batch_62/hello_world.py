@@ -66,14 +66,42 @@
 # for i in range(1,5):
 #     numbers  = int(input("enter ur number"))
 #     if i == 4 :
-#      print(i ** i)
-i = 2
-input = ("enter your number")
-while i in range(1,5):
-    if input == 5:
-        continue
-str = input ** input
-print(str)
+# #      print(i ** i)
+# i = 2
+# input = ("enter your number")
+# while i in range(1,5):
+#     if input == 5:
+#         continue
+# str = input ** input
+# print(str)
+# str = "6"
+# print(str.isprintable())
+# str = "6 \n 6"
+# print(str.isprintable())
+# str = "6 \n 6"
+# print(str.isspace())
+# print(str.isspace())
+# str = "6 \n 6"
+# name  = "nawaz"
+# str = " ".join(name)
+# print(str)
 
-   
+# name  = "nawaz"
+# s = ". &"
+# str = s.join(name)
+# print(str)
+# ,
+# name1 = "hassen"
+# str = name1.ljust(24,'_')
+# print(str)
+# name1 = "hassen"
+# str = name1.ljust(24,'_')
+# str1 = name1.rjust(24, '_')
+# print(str ,str1)
     
+str3 =      ',.jht' "geeksforgeeks"
+sir = str3.rstrip( '.,jht')
+print(sir)
+# it remove spaces and the word you add like that l strip re move left spaces but if
+# i want to re move the string from left we have to indicate the name in bakword way like nawaz we will guve
+# zawan
